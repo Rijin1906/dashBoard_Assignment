@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sidebar-parent-div{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 13px;
+    color: gray;
+    font-size: 20px;
+}
+
+.sidebar-parent-div:hover{
+    background-color: rgb(227, 208, 244);
+    color: blueviolet;
+    
+}
+
+.sidebar-span{
+    margin-right: 10px;
+}
+.sidebar-child-div{
+    display: flex;
+}
+.sidebar-downarrow{
+    padding-left: 50px;
+}

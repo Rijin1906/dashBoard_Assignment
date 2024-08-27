@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.dashboard-parent-div{
+    background-color: #EEEDEB;
+    height: 5vh;
+}
+.dashboard-child-div{
+    height: 5vh;
+    background-color: white;
+    width: 20vh;
+    display: flex;
+    font-size: 20px;
+    color: blueviolet;
+    justify-content: center;
+     align-items: center;
+}

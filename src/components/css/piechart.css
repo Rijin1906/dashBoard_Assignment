@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.piechart-first-child{
+    height: 7vh;
+    font-size: 20px;
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 7px;
+    width: 50vh;
+}
+.piechart-second-child{
+    margin-top: 1px;
+    background-color: white;
+    height: 86vh;
+}
